@@ -17,3 +17,4 @@ Our team encountered several critical hurdles during the development of this ins
 * **Environment Stability**: Resolved eIQ Toolkit dependency failures via source-level patching.
 * **Metadata Reconciliation**: Overcame ONNX shape-lock conflicts using custom Python shims.
 * **Hardware Constraints**: Prioritized INT8 quantization to meet strict TCM residency requirements for sub-millisecond inference.
+
